@@ -1,4 +1,4 @@
-![Profile](pic1.png)
+![Profile](pic2.png)
 <h1 align="center">Hi there 👋👋,Welcome to my Github Profile</h1>
 
 ## I'm Bethelhem Mebratu
