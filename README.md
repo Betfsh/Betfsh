@@ -1,3 +1,2 @@
-![Banner Image](/home/b/readme/betfsh/picture.png)
-
+![Banner Image](https://github.com/Betfsh/Betfsh/blob/main/Picture.png)
 
