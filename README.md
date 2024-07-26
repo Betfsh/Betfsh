@@ -1,6 +1,5 @@
 ![Banner Image]([https://github.com/Betfsh/Betfsh/main/Picture.png](https://github.com/Betfsh/Betfsh/blob/main/picture.png))
-<h1 align="center">
-# Hi there 👋👋,Welcome to my Github Profile</h1>
+<h1 align="center">Hi there 👋👋,Welcome to my Github Profile</h1>
 
 ### I'm Bethelhem Mebratu
 
